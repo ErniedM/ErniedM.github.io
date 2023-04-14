@@ -1,5 +1,3 @@
-# ErniedM.github.io
-
 # Labo 7: bouw je eigen static site generator
 Je dient de opgeloste oefening in in een zip-bestand uiterlijk op vrijdag 21 april, 14u. 
 
