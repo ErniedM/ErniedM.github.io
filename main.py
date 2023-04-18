@@ -8,7 +8,7 @@ from datetime import datetime
 TEMPLATES_DIR = "./templates"
 PAGES_DIR = "./pages"
 POSTS_DIR = "./posts"
-OUTPUT_DIR = "./_site"
+OUTPUT_DIR = "./docs"
 
 # Maak een Jinja2 omgeving
 env = Environment(loader=FileSystemLoader(TEMPLATES_DIR))
