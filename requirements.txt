@@ -1,0 +1,10 @@
+DateTime==4.9
+importlib-metadata==4.8.3
+Jinja2==3.0.3
+Markdown==3.3.7
+MarkupSafe==2.0.1
+pytz==2023.3
+PyYAML==6.0
+typing_extensions==4.1.1
+zipp==3.6.0
+zope.interface==5.5.2
